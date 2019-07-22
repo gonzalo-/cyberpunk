@@ -54,6 +54,9 @@ Basically a list of Cyberpunk stuff
 * [Ghost in the Shell: Stand Alone Complex - Solid State Society](https://www.imdb.com/title/tt0856797/)
 * [Ghost in the Shell Arise: Border 1 - Ghost Pain](https://www.imdb.com/title/tt2636124/)
 * [Cowboy Bebop](https://www.imdb.com/title/tt0213338/)
+* [Blame](https://www.anime-planet.com/anime/blame)
+* [Pale Cocoon](https://www.anime-planet.com/anime/pale-cocoon)
+* [Serial Experiments Lain](https://www.anime-planet.com/anime/serial-experiments-lain)
 
 ## WWW
 * [Reddit r/cyberpunk](https://www.reddit.com/r/Cyberpunk/)
