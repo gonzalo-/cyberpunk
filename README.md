@@ -7,8 +7,8 @@ Basically a list of Cyberpunk stuff
 
 - [Movies](#movies)
 - [TV Shows](#tvshows)
-- [Animes](#animes)
-- [Mangas](#mangas)
+- [Anime](#anime)
+- [Manga](#manga)
 - [WWW](#www)
 - [Videos](#videos)
 - [Texts](#texts)
@@ -43,7 +43,7 @@ Basically a list of Cyberpunk stuff
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 
-## Animes
+## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
 * [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)
 * [Ghost in the Shell: The New Movie](https://www.imdb.com/title/tt4337072/)
