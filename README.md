@@ -1,4 +1,4 @@
-# cyberpunk
+# Cyberpunk
 
 Basically a list of Cyberpunk stuff
 
@@ -13,11 +13,11 @@ Basically a list of Cyberpunk stuff
 - [Videos](#videos)
 - [Texts](#texts)
 - [Books](#books)
+- [Art](#art)
 - [Podcasts](#podcasts)
 
 
 ## Movies
-
 * [Ghost in the Shell](https://www.imdb.com/title/tt1219827/)
 * [Gamer](https://www.imdb.com/title/tt1034032/)
 * [Alita: Battle Angel](https://www.imdb.com/title/tt0437086/)
@@ -57,3 +57,6 @@ Basically a list of Cyberpunk stuff
 ## WWW
 * [Reddit r/cyberpunk](https://www.reddit.com/r/Cyberpunk/)
 * [8ch.net /cyber](https://8ch.net/cyber/index.html)
+
+## Art
+* [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
