@@ -16,6 +16,7 @@ Basically a list of Cyberpunk stuff
 - [Art](#art)
 - [Podcasts](#podcasts)
 - [Code/Software](#code)
+- [Music](#music)
 
 
 ## Movies
@@ -40,6 +41,7 @@ Basically a list of Cyberpunk stuff
 * [Equilibrium](https://www.imdb.com/title/tt0238380/)
 * [Dredd](https://www.imdb.com/title/tt1343727/)
 * [I, Robot](https://www.imdb.com/title/tt0343818/)
+* [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
 
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
@@ -64,3 +66,7 @@ Basically a list of Cyberpunk stuff
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
+* [Simon Stålenhag](https://www.simonstalenhag.se/index.html)
+
+## Music
+* [Billy Idols Neuromancer-record](https://www.youtube.com/results?search_query=Billy+Idols+Neuromancer-record)
