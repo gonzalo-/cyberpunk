@@ -38,6 +38,7 @@ Basically a list of Cyberpunk stuff
 * [Total Recall](https://www.imdb.com/title/tt0100802/)
 * [Total Recall (remake)](https://www.imdb.com/title/tt1386703/)
 * [Elysium](https://www.imdb.com/title/tt1535108/)
+* [Chappie](https://www.imdb.com/title/tt1823672/)
 * [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)
 * [Equilibrium](https://www.imdb.com/title/tt0238380/)
 * [Dredd](https://www.imdb.com/title/tt1343727/)
