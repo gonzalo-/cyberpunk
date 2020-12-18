@@ -197,4 +197,13 @@ Basically a list of Cyberpunk stuff
 * [Simon Stålenhag](https://www.simonstalenhag.se/index.html)
 
 ## Music
-* [Billy Idols Neuromancer-record](https://www.youtube.com/results?search_query=Billy+Idols+Neuromancer-record)
+* [Billy Idol's _Cyberpunk_ record](https://en.wikipedia.org/wiki/Cyberpunk_(album))
+* [Front 242](https://en.wikipedia.org/wiki/Front_242)
+* [The Prodigy](https://en.wikipedia.org/wiki/The_Prodigy)
+* [Atari Teenage Riot](https://www.atari-teenage-riot.com/)
+* [Skinny Puppy](https://en.wikipedia.org/wiki/Skinny_Puppy)
+* [Front Line Assembly (or FLA)](https://en.wikipedia.org/wiki/Front_Line_Assembly)
+* [3TEETH](https://3teeth.org/)
+* [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
+* [Squarepusher](https://squarepusher.net/)
+* [Aphex Twin](https://aphextwin.warp.net/)
