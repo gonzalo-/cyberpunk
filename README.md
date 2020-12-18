@@ -99,7 +99,7 @@ Basically a list of Cyberpunk stuff
 * [2020 Visions](https://en.wikipedia.org/wiki/2020_Visions)
 
 ## WWW
-* [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk,
+* [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk.
 * [Reddit r/cyberpunk](https://www.reddit.com/r/Cyberpunk/)
 * [8ch.net /cyber](https://8ch.net/cyber/index.html)
 * http://0110000101111000.tumblr.com/
