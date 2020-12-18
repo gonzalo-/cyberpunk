@@ -64,7 +64,7 @@ Basically a list of Cyberpunk stuff
 * [Strange days](https://www.imdb.com/title/tt0114558/)
 * [Lawnmower Man](https://www.imdb.com/title/tt0116839/)
 * [Dark city](https://www.imdb.com/title/tt0118929/)
-* [La Jetée](https://www.imdb.com/title/tt0056119/)
+* [La Jetée](https://www.imdb.com/title/tt0056119/): The story of a man forced to explore his memories in the wake of World War III's devastation, told through still images. 
 
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
