@@ -106,6 +106,7 @@ Basically a list of Cyberpunk stuff
 ## Magazines
 * [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
 * MONDO 2000 ([current](https://www.mondo2000.com/), [covers](http://www.mondo2000.net/), [archive](https://archive.org/details/mondohistory)): Mondo 2000 was a glossy cyberculture magazine published in California during the 1980s and 1990s. It covered cyberpunk topics such as virtual reality and smart drugs.
+* Reality Hackers: pre-MONDO 2000. See up in _archive_.
 * [Datenschleuder](https://ds.ccc.de/): German hacker magazine that is published at irregular intervals by the Chaos Computer Club (CCC). Topics include primarily political and technical aspects of the digital world (freedom of information, data privacy (data protection), closed-circuit television, personal privacy (personal rights), cryptography and many more). 
 
 ## Comics
