@@ -19,6 +19,7 @@ Basically a list of Cyberpunk stuff
 - [Podcasts](#podcasts)
 - [Code/Software](#code)
 - [Music](#music)
+- [Video Games](#videogames)
 
 
 ## Movies
@@ -73,9 +74,11 @@ Basically a list of Cyberpunk stuff
 * [Lawnmower Man](https://www.imdb.com/title/tt0116839/): _No synopsis._
 * [Dark city](https://www.imdb.com/title/tt0118929/): A man struggles with memories of his past, which includes a wife he cannot remember, and a nightmarish world, no one else seems to be waking up from. 
 * [La Jetée](https://www.imdb.com/title/tt0056119/): The story of a man forced to explore his memories in the wake of World War III's devastation, told through still images. 
+* [Metropolis (1927)](https://en.m.wikipedia.org/wiki/Metropolis_(1927_film)): In the future, in the Million-acre city of Metropolis, wealthy industrialists and business magnates and their top employees reign from 50 to 1,000-story skyscrapers, while underground-dwelling workers toil to operate the great machines that power the city.
 
-## TV Shows
+## TV_Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+* [Black Mirror](https://www.imdb.com/title/tt2085059/)
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
@@ -207,3 +210,6 @@ Basically a list of Cyberpunk stuff
 * [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
 * [Squarepusher](https://squarepusher.net/)
 * [Aphex Twin](https://aphextwin.warp.net/)
+
+## Video_Games
+* [CyberPunk 2077](https://www.cyberpunk.net/)
