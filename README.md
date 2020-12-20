@@ -6,7 +6,7 @@ Basically a list of Cyberpunk stuff
 ## Table of Contents
 
 - [Movies](#movies)
-- [TV Shows](#tvshows)
+- [TV Shows](#tv-shows)
 - [Anime](#anime)
 - [Manga](#manga)
 - [Magazines](#magazines)
@@ -19,7 +19,7 @@ Basically a list of Cyberpunk stuff
 - [Podcasts](#podcasts)
 - [Code/Software](#code)
 - [Music](#music)
-- [Video Games](#videogames)
+- [Video Games](#video-games)
 
 
 ## Movies
@@ -128,23 +128,17 @@ Basically a list of Cyberpunk stuff
 * https://binaryreflex.tumblr.com/
 * http://blackiochronicles.tumblr.com/
 * http://blog.outrunnerscomic.com/
-* http://blog.transceiverfreq.com/
 * http://c-yberpunk.tumblr.com/
 * http://cf-12.tumblr.com/
-* http://chatsubo-net.tumblr.com/
 * http://cheezeb0rg.tumblr.com/
-* http://circuitwitch.tumblr.com/
-* http://crystalhotix.tumblr.com/
 * http://cyberphonetics.tumblr.com/
 * http://cyberpunkhero.tumblr.com/
 * http://cyberpunkimages.tumblr.com/
 * http://cyberpunknoise.tumblr.com/
 * http://cyberpunkonline.net/
 * http://cyberpunktokyo.tumblr.com/
-* http://cyberpunkvisions.tumblr.com/
 * http://cybertunage.tumblr.com/
 * http://cypulchre.tumblr.com/
-* http://dastal.tumblr.com/
 * http://deathdol.tumblr.com/
 * http://deatherit.tumblr.com
 * http://digitalisticnoise.tumblr.com/
@@ -152,20 +146,14 @@ Basically a list of Cyberpunk stuff
 * http://dystopianfuture.tumblr.com/
 * http://echoesfromtheruins.tumblr.com/
 * http://enjoydigitallife.tumblr.com/
-* http://filen0tf0und.tumblr.com/
 * http://fleshcoatedtechnology.tumblr.com/
 * http://futurefanfare.tumblr.com/
-* http://gasmasksamba.tumblr.com/
-* http://hackerinterior.tumblr.com
 * http://hedonicglitch.tumblr.com/
 * http://helaeon.tumblr.com/
 * http://instinctualization.tumblr.com/
 * http://internet-of-dreams.tumblr.com/
-* http://ioblk.tumblr.com/
-* http://iondrimba.tumblr.com/
 * http://katisque.tumblr.com/
 * http://khymeira.tumblr.com/
-* http://net-runner.tumblr.com/
 * http://neuromaencer.com/
 * http://noclipdesigns.tumblr.com/
 * http://ono-sendai-cyberspace7.tumblr.com/
@@ -179,21 +167,16 @@ Basically a list of Cyberpunk stuff
 * http://roboticnetwork.tumblr.com/
 * http://scarecrow-feedback.tumblr.com/
 * http://slimetroop.tumblr.com/
-* http://shantrising.tumblr.com/
 * http://shinobigang.com/
 * http://sid766.tumblr.com/
 * http://spanglypants-mcfuckyou.tumblr.com/
 * http://thechromenet.tumblr.com/
-* http://the-night-driving-avenger.tumblr.com/
-* http://todkon.tumblr.com/
 * http://tohaheavyindustries.tumblr.com/
 * http://trenchcoatsheep.tumblr.com/
 * http://uzicopter.tumblr.com/
 * http://wondershock.tumblr.com/
-* http://cruisingwithgunhead.tumblr.com/
 * http://cerebralzero.tumblr.com/
 * http://feedbackwild.tumblr.com/
-* http://fiorenn.tumblr.com/
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
