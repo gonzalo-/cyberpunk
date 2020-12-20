@@ -76,7 +76,7 @@ Basically a list of Cyberpunk stuff
 * [La Jetée](https://www.imdb.com/title/tt0056119/): The story of a man forced to explore his memories in the wake of World War III's devastation, told through still images. 
 * [Metropolis (1927)](https://en.m.wikipedia.org/wiki/Metropolis_(1927_film)): In the future, in the Million-acre city of Metropolis, wealthy industrialists and business magnates and their top employees reign from 50 to 1,000-story skyscrapers, while underground-dwelling workers toil to operate the great machines that power the city.
 
-## TV_Shows
+## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 
@@ -211,5 +211,5 @@ Basically a list of Cyberpunk stuff
 * [Squarepusher](https://squarepusher.net/)
 * [Aphex Twin](https://aphextwin.warp.net/)
 
-## Video_Games
+## Video Games
 * [CyberPunk 2077](https://www.cyberpunk.net/)
