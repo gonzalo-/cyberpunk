@@ -2,6 +2,7 @@
 
 Basically a list of Cyberpunk stuff
 
+### [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
 
 ## Table of Contents
 
@@ -75,6 +76,7 @@ Basically a list of Cyberpunk stuff
 * [Dark city](https://www.imdb.com/title/tt0118929/): A man struggles with memories of his past, which includes a wife he cannot remember, and a nightmarish world, no one else seems to be waking up from. 
 * [La Jetée](https://www.imdb.com/title/tt0056119/): The story of a man forced to explore his memories in the wake of World War III's devastation, told through still images. 
 * [Metropolis (1927)](https://en.m.wikipedia.org/wiki/Metropolis_(1927_film)): In the future, in the Million-acre city of Metropolis, wealthy industrialists and business magnates and their top employees reign from 50 to 1,000-story skyscrapers, while underground-dwelling workers toil to operate the great machines that power the city.
+* [Hackers](https://www.imdb.com/title/tt0113243/): Hackers are blamed for making a virus that will capsize five oil tankers.
 
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
@@ -195,4 +197,6 @@ Basically a list of Cyberpunk stuff
 * [Aphex Twin](https://aphextwin.warp.net/)
 
 ## Video Games
-* [CyberPunk 2077](https://www.cyberpunk.net/)
+* [CyberPunk 2077 (2020)](https://www.cyberpunk.net/)
+* [Deus Ex Machina (1984)](https://en.wikipedia.org/wiki/Deus_Ex_Machina_(video_game))
+* [Deus Ex (2000)](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
