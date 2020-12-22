@@ -200,6 +200,9 @@ Basically a list of Cyberpunk stuff
 * [Simon Stålenhag](https://www.simonstalenhag.se/index.html)
 * [Fine Art America](https://fineartamerica.com/art/cyberpunk)
 * [DeviantArt](https://www.deviantart.com/tag/cyberpunk)
+* [Kontrolaltdelt](https://www.instagram.com/kontrolaltdelt/)
+* [Bouss Bouss/](https://www.instagram.com/bouss_bouss/)
+* [Michera Machine/](https://www.instagram.com/michera.machine/)
 
 ## Code
 * [prometheux-ar/cyberpunk](https://github.com/prometheux-ar/cyberpunk): A crazy Cyberpunk theme for Visual Studio Code
