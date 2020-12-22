@@ -104,6 +104,13 @@ Basically a list of Cyberpunk stuff
 * [Cyber City Oedo 808](https://en.wikipedia.org/wiki/Cyber_City_Oedo_808)
 * [Ergo Proxy](https://en.wikipedia.org/wiki/Ergo_Proxy)
 * [Viper's Creed](https://en.wikipedia.org/wiki/Viper%27s_Creed)
+* [Psycho-Pass](https://www.imdb.com/title/tt2379308/)
+* [Serial Experiments Lain](https://animanga.fandom.com/wiki/Serial_Experiments_Lain)
+* [Battle Angel Alita](https://battleangel.fandom.com/wiki/Battle_Angel_Alita_Wiki)
+* [Texhnolyze](https://texhnolyze.fandom.com/wiki/Texhnolyze_Wiki)
+* [Bubblegum crisis](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis_Wiki)
+* [Mardock Scramble](https://animanga.fandom.com/de/wiki/Mardock_Scramble)
+* [Megazone 23](https://robotech.fandom.com/wiki/Megazone_23)
 
 ## Manga
 * [A.D. Police Files](https://en.wikipedia.org/wiki/A.D._Police_Files#Manga)
