@@ -21,6 +21,7 @@ Basically a list of Cyberpunk stuff
 - [Code/Software](#code)
 - [Music](#music)
 - [Video Games](#video-games)
+- [Wallpapers](/wallpapers/)
 
 
 ## Movies
