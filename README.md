@@ -201,6 +201,13 @@ Basically a list of Cyberpunk stuff
 * [Fine Art America](https://fineartamerica.com/art/cyberpunk)
 * [DeviantArt](https://www.deviantart.com/tag/cyberpunk)
 
+## Code
+* [prometheux-ar/cyberpunk](https://github.com/prometheux-ar/cyberpunk): A crazy Cyberpunk theme for Visual Studio Code
+* [roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon): Tons of cyberpunk theme files
+* [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk): Python package on top of matplotlib to create 'cyberpunk' style plots
+* [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch): Collection of glitch video effects
+* [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch): Jpg glitch for the browser
+
 ## Music
 * [Billy Idol's _Cyberpunk_ record](https://en.wikipedia.org/wiki/Cyberpunk_(album))
 * [Front 242](https://en.wikipedia.org/wiki/Front_242)
