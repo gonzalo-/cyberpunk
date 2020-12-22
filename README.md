@@ -2,7 +2,7 @@
 
 Basically a list of Cyberpunk stuff
 
-### [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
+![CyberPunk Logo](/wallpapers/cyberpunk-city-buildings-sci-fi-uhdpaper.com-4K-4.74-wp.thumbnail.jpg)
 
 ## Table of Contents
 
@@ -81,6 +81,7 @@ Basically a list of Cyberpunk stuff
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
+* [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
@@ -180,9 +181,25 @@ Basically a list of Cyberpunk stuff
 * http://cerebralzero.tumblr.com/
 * http://feedbackwild.tumblr.com/
 
+## Videos
+* [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
+
+## Texts
+* [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
+
+## Books
+* [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer)
+* [Count Zero](https://www.goodreads.com/book/show/22200.Count_Zero)
+* [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_)
+* [Snow Cash](https://www.goodreads.com/book/show/40651883-snow-crash)
+* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
+* [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
 * [Simon Stålenhag](https://www.simonstalenhag.se/index.html)
+* [Fine Art America](https://fineartamerica.com/art/cyberpunk)
+* [DeviantArt](https://www.deviantart.com/tag/cyberpunk)
 
 ## Music
 * [Billy Idol's _Cyberpunk_ record](https://en.wikipedia.org/wiki/Cyberpunk_(album))
@@ -200,3 +217,5 @@ Basically a list of Cyberpunk stuff
 * [CyberPunk 2077 (2020)](https://www.cyberpunk.net/)
 * [Deus Ex Machina (1984)](https://en.wikipedia.org/wiki/Deus_Ex_Machina_(video_game))
 * [Deus Ex (2000)](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
+* [Cryptomancer RPG](http://cryptorpg.com/)
+* [Xenosaga](https://en.wikipedia.org/wiki/Xenosaga)
