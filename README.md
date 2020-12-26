@@ -34,7 +34,6 @@ Basically a list of Cyberpunk stuff
   - [The Matrix](https://www.imdb.com/title/tt0133093): When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence. 
   - [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/): Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.
   - [The Matrix Revolutions](https://www.imdb.com/title/tt0242653/): The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith. 
-* [Altered Carbon](https://www.imdb.com/title/tt2261227): Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
 * [Ready Player One](https://www.imdb.com/title/tt1677720/): When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.
 * [Upgrade](https://www.imdb.com/title/tt6499752): Set in the near-future, technology controls nearly all aspects of life. But when the world of Grey, a self-labeled technophobe, is turned upside down, his only hope for revenge is an experimental computer chip implant. 
 * [The Fifth Element](https://www.imdb.com/title/tt0119116/): In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay. 
@@ -83,6 +82,8 @@ Basically a list of Cyberpunk stuff
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 * [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
+* [The Expanse](https://www.imdb.com/title/tt3230854/)
+* [Altered Carbon](https://www.imdb.com/title/tt2261227): Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
