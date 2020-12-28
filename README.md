@@ -22,6 +22,7 @@ Basically a list of Cyberpunk stuff
 - [Music](#music)
 - [Video Games](#video-games)
 - [Wallpapers](/wallpapers/)
+- [Wearable](#wearable)
 
 
 ## Movies
@@ -238,3 +239,10 @@ Basically a list of Cyberpunk stuff
 * [Deus Ex (2000)](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
 * [Cryptomancer RPG](http://cryptorpg.com/)
 * [Xenosaga](https://en.wikipedia.org/wiki/Xenosaga)
+
+## Wearable
+* [Dustrial](https://dustrial.net/)
+* [ACRONYM](https://acrnm.com/)
+* [Niepce Inc](https://niepceinc.com/)
+* [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
+* [HackAttack Shoes](https://www.aliveshoes.com/brand/hackattack)
