@@ -78,6 +78,7 @@ Basically a list of Cyberpunk stuff
 * [La Jetée](https://www.imdb.com/title/tt0056119/): The story of a man forced to explore his memories in the wake of World War III's devastation, told through still images. 
 * [Metropolis (1927)](https://en.m.wikipedia.org/wiki/Metropolis_(1927_film)): In the future, in the Million-acre city of Metropolis, wealthy industrialists and business magnates and their top employees reign from 50 to 1,000-story skyscrapers, while underground-dwelling workers toil to operate the great machines that power the city.
 * [Hackers](https://www.imdb.com/title/tt0113243/): Hackers are blamed for making a virus that will capsize five oil tankers.
+* [Technotise: Edit and I](https://en.wikipedia.org/wiki/Technotise:_Edit_%26_I): Edit, a psychology student, installs herself a stolen military chip to pass the university. But due certain circumstances Edit develops a second personality.
 
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
@@ -114,10 +115,13 @@ Basically a list of Cyberpunk stuff
 * [Bubblegum crisis](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis_Wiki)
 * [Mardock Scramble](https://animanga.fandom.com/de/wiki/Mardock_Scramble)
 * [Megazone 23](https://robotech.fandom.com/wiki/Megazone_23)
+* [Heat Guy J](https://en.wikipedia.org/wiki/Heat_Guy_J)
+* [Armitage III](https://en.wikipedia.org/wiki/Armitage_III)
 
 ## Manga
 * [A.D. Police Files](https://en.wikipedia.org/wiki/A.D._Police_Files#Manga)
 * [Blame!](https://en.wikipedia.org/wiki/Blame!)
+* [Prophecy](https://en.wikipedia.org/wiki/Prophecy_(manga))
 
 ## Magazines
 * [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
@@ -204,6 +208,7 @@ Basically a list of Cyberpunk stuff
 * [Snow Cash](https://www.goodreads.com/book/show/40651883-snow-crash)
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
@@ -232,6 +237,8 @@ Basically a list of Cyberpunk stuff
 * [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
 * [Squarepusher](https://squarepusher.net/)
 * [Aphex Twin](https://aphextwin.warp.net/)
+* [In Flames - Colony](https://en.wikipedia.org/wiki/Colony_(In_Flames_album))
+* [Perturbator](https://perturbator.bandcamp.com/)
 
 ## Video Games
 * [CyberPunk 2077 (2020)](https://www.cyberpunk.net/)
@@ -239,6 +246,8 @@ Basically a list of Cyberpunk stuff
 * [Deus Ex (2000)](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
 * [Cryptomancer RPG](http://cryptorpg.com/)
 * [Xenosaga](https://en.wikipedia.org/wiki/Xenosaga)
+* [2064: Read Only Memories](https://en.wikipedia.org/wiki/2064%3A_Read_Only_Memories)
+* [VA-11 Hall-A](https://en.wikipedia.org/wiki/VA-11_Hall-A)
 
 ## Wearable
 * [Dustrial](https://dustrial.net/)
