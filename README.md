@@ -211,6 +211,7 @@ Basically a list of Cyberpunk stuff
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
+* [Zero-signal](https://rickwayne.com/zero-signal)
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
