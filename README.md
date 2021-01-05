@@ -194,9 +194,11 @@ Basically a list of Cyberpunk stuff
 * http://wondershock.tumblr.com/
 * http://cerebralzero.tumblr.com/
 * http://feedbackwild.tumblr.com/
+* https://n-o-d-e.net
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
+* [CyberPunk Documentary](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
 
 ## Texts
 * [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
@@ -255,3 +257,4 @@ Basically a list of Cyberpunk stuff
 * [Niepce Inc](https://niepceinc.com/)
 * [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
 * [HackAttack Shoes](https://www.aliveshoes.com/brand/hackattack)
+* [N O D E](https://n-o-d-e.shop/)
