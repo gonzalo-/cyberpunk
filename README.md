@@ -124,14 +124,19 @@ Basically a list of Cyberpunk stuff
 * [Prophecy](https://en.wikipedia.org/wiki/Prophecy_(manga))
 
 ## Magazines
-* [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
+* [2600](https://www.2600.com/): The Hacker Quarterly
+* [CYBR](https://cybrmagazine.com/)
+* [Datenschleuder](https://ds.ccc.de/): German hacker magazine that is published at irregular intervals by the Chaos Computer Club (CCC). Topics include primarily political and technical aspects of the digital world (freedom of information, data privacy (data protection), closed-circuit television, personal privacy (personal rights), cryptography and many more). 
 * MONDO 2000 ([current](https://www.mondo2000.com/), [covers](http://www.mondo2000.net/), [archive](https://archive.org/details/mondohistory)): Mondo 2000 was a glossy cyberculture magazine published in California during the 1980s and 1990s. It covered cyberpunk topics such as virtual reality and smart drugs.
 * Reality Hackers: pre-MONDO 2000. See up in _archive_.
-* [Datenschleuder](https://ds.ccc.de/): German hacker magazine that is published at irregular intervals by the Chaos Computer Club (CCC). Topics include primarily political and technical aspects of the digital world (freedom of information, data privacy (data protection), closed-circuit television, personal privacy (personal rights), cryptography and many more). 
+* [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
 
 ## Comics
 * [2020 Visions](https://en.wikipedia.org/wiki/2020_Visions)
+* [Hacktivist](https://www.comixology.com/Hacktivist/comics-series/12680)
 * [Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd): Judge Dredd is a law enforcement officer in the dystopian future city of Mega-City One and a "street judge", empowered to summarily arrest, convict, sentence, and execute criminals. 
+* [Outcasts](https://en.wikipedia.org/wiki/Outcasts_(DC_Comics))
+* [Transmetropolitan](https://www.cbr.com/tag/transmetropolitan/)
 
 ## WWW
 * [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk.
@@ -187,6 +192,7 @@ Basically a list of Cyberpunk stuff
 * http://shinobigang.com/
 * http://sid766.tumblr.com/
 * http://spanglypants-mcfuckyou.tumblr.com/
+* https://tacticalneuralimplant.tumblr.com/
 * http://thechromenet.tumblr.com/
 * http://tohaheavyindustries.tumblr.com/
 * http://trenchcoatsheep.tumblr.com/
@@ -204,12 +210,25 @@ Basically a list of Cyberpunk stuff
 * [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
 
 ## Books
-* [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer)
+* [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon): Part #1, also read Broken Angels and Woken Furies
+* [Autonomous](https://www.goodreads.com/book/show/28209634-autonomous)
 * [Count Zero](https://www.goodreads.com/book/show/22200.Count_Zero)
 * [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_)
-* [Snow Cash](https://www.goodreads.com/book/show/40651883-snow-crash)
-* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
+* [Dogs of War](https://www.goodreads.com/book/show/35827220-dogs-of-war)
+* [Islands in the Net](https://www.goodreads.com/book/show/218571.Islands_in_the_Net)
+* [Mirrorshades](https://www.goodreads.com/book/show/302702.Mirrorshades): The Cyberpunk Anthology
+* [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer)
+* [Nexus](https://www.goodreads.com/book/show/13642710-nexus): Part 1 of 3 (also read Crux and Apex)
 * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
+* [REAMDE](https://www.goodreads.com/book/show/10552338-reamde)
+* [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash)
+* [Spares](https://www.goodreads.com/book/show/21010.Spares)
+* [The Departure](https://www.goodreads.com/book/show/10648878-the-departure)
+* [The Peripheral](https://www.goodreads.com/book/show/24611819-the-peripheral)
+* [The Water Knife](https://www.goodreads.com/book/show/23209924-the-water-knife)
+* [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air)
+* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
+* [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway): Also read Little Brother, Makers, Attack Surface or basically anything by Doctorow for amazing near-future cyberpunk
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 * [Zero-signal](https://rickwayne.com/zero-signal)
 
@@ -228,34 +247,67 @@ Basically a list of Cyberpunk stuff
 * [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk): Python package on top of matplotlib to create 'cyberpunk' style plots
 * [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch): Collection of glitch video effects
 * [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch): Jpg glitch for the browser
+* [propjockey/augmented-ui](Augmented UI): Cyberpunk UI components in CSS
+* [arwes/arwes](Arwes): Scifi UI CSS
 
 ## Music
+* [3TEETH](https://3teeth.org/)
+* [Access to Arasaka](https://tympanikaudio.bandcamp.com/album/oppidan)
+* [Aphex Twin](https://aphextwin.warp.net/)
+* [Atari Teenage Riot](https://www.atari-teenage-riot.com/)
 * [Billy Idol's _Cyberpunk_ record](https://en.wikipedia.org/wiki/Cyberpunk_(album))
 * [Front 242](https://en.wikipedia.org/wiki/Front_242)
-* [The Prodigy](https://en.wikipedia.org/wiki/The_Prodigy)
-* [Atari Teenage Riot](https://www.atari-teenage-riot.com/)
-* [Skinny Puppy](https://en.wikipedia.org/wiki/Skinny_Puppy)
 * [Front Line Assembly (or FLA)](https://en.wikipedia.org/wiki/Front_Line_Assembly)
-* [3TEETH](https://3teeth.org/)
-* [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
-* [Squarepusher](https://squarepusher.net/)
-* [Aphex Twin](https://aphextwin.warp.net/)
+* [Haujobb](https://haujobb.bandcamp.com/album/solutions-for-a-small-planet)
 * [In Flames - Colony](https://en.wikipedia.org/wiki/Colony_(In_Flames_album))
 * [Perturbator](https://perturbator.bandcamp.com/)
+* [Skinny Puppy](https://en.wikipedia.org/wiki/Skinny_Puppy)
+* [Squarepusher](https://squarepusher.net/)
+* [The Prodigy](https://en.wikipedia.org/wiki/The_Prodigy)
+* [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
 
 ## Video Games
+* [2064: Read Only Memories](https://en.wikipedia.org/wiki/2064%3A_Read_Only_Memories)
+* [Beneath a Steel Sky](https://www.gog.com/game/beneath_a_steel_sky)
+* [Blade Runner](https://www.gog.com/game/blade_runner)
+* [Cloudpunk](https://store.steampowered.com/app/746850/Cloudpunk/)
+* [Cryptomancer RPG](http://cryptorpg.com/)
 * [CyberPunk 2077 (2020)](https://www.cyberpunk.net/)
+* [Cypher](https://cabrerabrothers.com/)
 * [Deus Ex Machina (1984)](https://en.wikipedia.org/wiki/Deus_Ex_Machina_(video_game))
 * [Deus Ex (2000)](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
-* [Cryptomancer RPG](http://cryptorpg.com/)
-* [Xenosaga](https://en.wikipedia.org/wiki/Xenosaga)
-* [2064: Read Only Memories](https://en.wikipedia.org/wiki/2064%3A_Read_Only_Memories)
+* [ExaPunks](https://store.steampowered.com/app/716490/EXAPUNKS/)
+* [Gamedec](https://store.steampowered.com/app/917720/Gamedec/)
+* [Gemini Rue](https://store.steampowered.com/app/80310/Gemini_Rue/)
+* [Gunpoint](https://store.steampowered.com/app/206190/Gunpoint/)
+* [>observer_](https://store.steampowered.com/app/514900/observer/)
+* [Orwell](https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/)
+* [RUINER](https://store.steampowered.com/app/464060/RUINER/)
+* [Satellite Reign](https://store.steampowered.com/app/268870/Satellite_Reign/)
+* [Shadowrun: Dragonfall](https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/)
+* [Shadowrun: Hong Kong](https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/)
+* [Snatcher](https://www.myabandonware.com/game/snatcher-7te)
+* [System Shock 2](https://store.steampowered.com/app/238210/System_Shock_2/)
+* [Technobabylon](https://store.steampowered.com/app/307580/Technobabylon/)
+* [The Moment of Silence](https://store.steampowered.com/app/339840/The_Moment_of_Silence/)
+* [Uplink](https://store.steampowered.com/app/1510/Uplink/)
 * [VA-11 Hall-A](https://en.wikipedia.org/wiki/VA-11_Hall-A)
+* [VirtuaVerse](https://store.steampowered.com/app/1019310/VirtuaVerse/)
+* [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
+* [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
+* [Xenosaga](https://en.wikipedia.org/wiki/Xenosaga)
 
 ## Wearable
-* [Dustrial](https://dustrial.net/)
+* [5060/Machine56](https://5060.bigcartel.com/)
 * [ACRONYM](https://acrnm.com/)
-* [Niepce Inc](https://niepceinc.com/)
-* [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
+* [BlackTailor](https://www.blacktailor.store/)
+* [Dustrial](https://dustrial.net/)
+* [Enshadower](https://www.enshadower.me/)
+* [Guerilla Group](https://guerrilla-group.co/)
 * [HackAttack Shoes](https://www.aliveshoes.com/brand/hackattack)
+* [Krakatau](https://en.krakatauwear.com/)
+* [neo4ic](https://neo4ic.com/)
+* [Niepce Inc](https://niepceinc.com/)
 * [N O D E](https://n-o-d-e.shop/)
+* [Yksous](https://yksous.com/)
+* [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
