@@ -79,6 +79,7 @@ Basically a list of Cyberpunk stuff
 * [Metropolis (1927)](https://en.m.wikipedia.org/wiki/Metropolis_(1927_film)): In the future, in the Million-acre city of Metropolis, wealthy industrialists and business magnates and their top employees reign from 50 to 1,000-story skyscrapers, while underground-dwelling workers toil to operate the great machines that power the city.
 * [Hackers](https://www.imdb.com/title/tt0113243/): Hackers are blamed for making a virus that will capsize five oil tankers.
 * [Technotise: Edit and I](https://en.wikipedia.org/wiki/Technotise:_Edit_%26_I): Edit, a psychology student, installs herself a stolen military chip to pass the university. But due certain circumstances Edit develops a second personality.
+* [Space Sweepers](https://www.imdb.com/title/tt12838766/): Year 2092 and follows the crew of a space junk collector ship called The Victory.
 
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
