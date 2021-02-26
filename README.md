@@ -196,6 +196,7 @@ Basically a list of Cyberpunk stuff
 * http://cerebralzero.tumblr.com/
 * http://feedbackwild.tumblr.com/
 * https://n-o-d-e.net
+* https://wiki.xxiivv.com/site/illustration.html
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
