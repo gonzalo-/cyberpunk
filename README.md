@@ -303,6 +303,7 @@ Basically a list of Cyberpunk stuff
 * [5060/Machine56](https://5060.bigcartel.com/)
 * [ACRONYM](https://acrnm.com/)
 * [BlackTailor](https://www.blacktailor.store/)
+* [Demobaza](https://www.demobaza.com/)
 * [Dustrial](https://dustrial.net/)
 * [Enshadower](https://www.enshadower.me/)
 * [Guerilla Group](https://guerrilla-group.co/)
