@@ -90,6 +90,12 @@ Basically a list of Cyberpunk stuff
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
+* [Angel Cop](https://myanimelist.net/anime/1351/Angel_Cop)
+* [Battle Angel Alita](https://battleangel.fandom.com/wiki/Battle_Angel_Alita_Wiki)
+* [Blame](https://www.anime-planet.com/anime/blame)
+* [Cowboy Bebop](https://www.imdb.com/title/tt0213338/)
+* [Cyber City Oedo 808](https://en.wikipedia.org/wiki/Cyber_City_Oedo_808)
+* [Down Load: Namu Amida Butsu wa Ai no Uta](https://myanimelist.net/anime/3152/Down_Load__Namu_Amida_Butsu_wa_Ai_no_Uta)
 * [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)
 * [Ghost in the Shell: The New Movie](https://www.imdb.com/title/tt4337072/)
 * [Ghost in the Shell - Stand Alone Complex](https://www.imdb.com/title/tt0346314/)
@@ -97,21 +103,21 @@ Basically a list of Cyberpunk stuff
 * [Ghost in the Shell 2.0](https://www.imdb.com/title/tt1260502/)
 * [Ghost in the Shell: Stand Alone Complex - Solid State Society](https://www.imdb.com/title/tt0856797/)
 * [Ghost in the Shell Arise: Border 1 - Ghost Pain](https://www.imdb.com/title/tt2636124/)
-* [Cowboy Bebop](https://www.imdb.com/title/tt0213338/)
-* [Blame](https://www.anime-planet.com/anime/blame)
+* [Parasite Doll](https://myanimelist.net/anime/1350/Parasite_Dolls)
 * [Pale Cocoon](https://www.anime-planet.com/anime/pale-cocoon)
 * [Serial Experiments Lain](https://www.anime-planet.com/anime/serial-experiments-lain)
 * [Memories](https://en.wikipedia.org/wiki/Memories_(1995_film))
+* [Midnight Eye: Gokuu](https://myanimelist.net/anime/1879/Midnight_Eye__Gokuu)
 * [Neo Tokyo](https://en.wikipedia.org/wiki/Neo_Tokyo_(film))
 * [Robot Carnival](https://en.wikipedia.org/wiki/Robot_Carnival)
 * [Roujin Z](https://en.wikipedia.org/wiki/Roujin_Z)
 * [Metropolis](https://en.wikipedia.org/wiki/Metropolis_(2001_film))
-* [Cyber City Oedo 808](https://en.wikipedia.org/wiki/Cyber_City_Oedo_808)
+
 * [Ergo Proxy](https://en.wikipedia.org/wiki/Ergo_Proxy)
 * [Viper's Creed](https://en.wikipedia.org/wiki/Viper%27s_Creed)
 * [Psycho-Pass](https://www.imdb.com/title/tt2379308/)
 * [Serial Experiments Lain](https://animanga.fandom.com/wiki/Serial_Experiments_Lain)
-* [Battle Angel Alita](https://battleangel.fandom.com/wiki/Battle_Angel_Alita_Wiki)
+
 * [Texhnolyze](https://texhnolyze.fandom.com/wiki/Texhnolyze_Wiki)
 * [Bubblegum crisis](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis_Wiki)
 * [Mardock Scramble](https://animanga.fandom.com/de/wiki/Mardock_Scramble)
@@ -142,7 +148,7 @@ Basically a list of Cyberpunk stuff
 ## WWW
 * [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk.
 * [Reddit r/cyberpunk](https://www.reddit.com/r/Cyberpunk/)
-* [8ch.net /cyber](https://8ch.net/cyber/index.html)
+* [8kun.top/cyber](https://8kun.top/cyber/catalog.html)
 * http://0110000101111000.tumblr.com/
 * http://virtualizedmemories.tumblr.com/
 * http://alteredcarbone.tumblr.com/
@@ -203,6 +209,19 @@ Basically a list of Cyberpunk stuff
 * http://feedbackwild.tumblr.com/
 * https://n-o-d-e.net
 * https://wiki.xxiivv.com/site/illustration.html
+* http://fauux.neocities.org
+* https://mebious.neocities.org
+* https://blackwings.neocities.org
+* https://webnavi.neocities.org
+* https://newchapter.neocities.org
+* https://angusnicneven.com
+* https://j0n.k4w411.net/
+* https://unplug.neocities.org/
+* https://rvklein.me/
+* http://playing.hypernom.com/monkeys
+* http://burymewithmymoney.com/
+* https://apollobase.neocities.org/news.html
+* 
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
@@ -262,6 +281,7 @@ Basically a list of Cyberpunk stuff
 * [Front Line Assembly (or FLA)](https://en.wikipedia.org/wiki/Front_Line_Assembly)
 * [Haujobb](https://haujobb.bandcamp.com/album/solutions-for-a-small-planet)
 * [In Flames - Colony](https://en.wikipedia.org/wiki/Colony_(In_Flames_album))
+* [Joey Danger - Surrender](https://www.youtube.com/watch?v=ZzcXhTYLUvQ)
 * [Perturbator](https://perturbator.bandcamp.com/)
 * [Skinny Puppy](https://en.wikipedia.org/wiki/Skinny_Puppy)
 * [Squarepusher](https://squarepusher.net/)
