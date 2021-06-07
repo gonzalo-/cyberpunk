@@ -6,21 +6,22 @@ Basically a list of Cyberpunk stuff
 
 ## Table of Contents
 
-- [Movies](#movies)
-- [TV Shows](#tv-shows)
 - [Anime](#anime)
-- [Manga](#manga)
-- [Magazines](#magazines)
-- [Comics](#comics)
-- [WWW](#www)
-- [Videos](#videos)
-- [Texts](#texts)
-- [Books](#books)
 - [Art](#art)
-- [Podcasts](#podcasts)
+- [Books](#books)
 - [Code/Software](#code)
+- [Comics](#comics)
+- [Hardware](#hardware)
+- [Magazines](#magazines)
+- [Manga](#manga)
+- [Movies](#movies)
 - [Music](#music)
+- [Podcasts](#podcasts)
+- [TV Shows](#tv-shows)
+- [Texts](#texts)
 - [Video Games](#video-games)
+- [Videos](#videos)
+- [WWW](#www)
 - [Wallpapers](/wallpapers/)
 - [Wearable](#wearable)
 
@@ -144,6 +145,10 @@ Basically a list of Cyberpunk stuff
 * [Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd): Judge Dredd is a law enforcement officer in the dystopian future city of Mega-City One and a "street judge", empowered to summarily arrest, convict, sentence, and execute criminals. 
 * [Outcasts](https://en.wikipedia.org/wiki/Outcasts_(DC_Comics))
 * [Transmetropolitan](https://www.cbr.com/tag/transmetropolitan/)
+
+## Hardware
+* [mntmn](https://shop.mntmn.com/)
+* [mntre](https://mntre.com/)
 
 ## WWW
 * [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk.
