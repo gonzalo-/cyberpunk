@@ -17,6 +17,7 @@ Basically a list of Cyberpunk stuff
 - [Movies](#movies)
 - [Music](#music)
 - [Podcasts](#podcasts)
+- [Social](#social)
 - [TV Shows](#tv-shows)
 - [Texts](#texts)
 - [Video Games](#video-games)
@@ -94,6 +95,13 @@ Basically a list of Cyberpunk stuff
 * [Compromised](https://player.fm/series/compromised)
 * [Tales from the afternow](http://rantmedia.ca/afternow/)
 
+## Social
+* [Cyberpunk Forums](https://cyberpunkforums.com)
+* [Freeradical](https://freeradical.zone/about)
+* [Cybre.space](https://cybre.space/about)
+* [Glitch Social](https://glitch.social/about)
+* [Pleroma/Soykaf](https://pleroma.soykaf.com/main/all)
+
 ## TV Shows
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
@@ -150,6 +158,7 @@ Basically a list of Cyberpunk stuff
 * [Datenschleuder](https://ds.ccc.de/): German hacker magazine that is published at irregular intervals by the Chaos Computer Club (CCC). Topics include primarily political and technical aspects of the digital world (freedom of information, data privacy (data protection), closed-circuit television, personal privacy (personal rights), cryptography and many more). 
 * MONDO 2000 ([current](https://www.mondo2000.com/), [covers](http://www.mondo2000.net/), [archive](https://archive.org/details/mondohistory)): Mondo 2000 was a glossy cyberculture magazine published in California during the 1980s and 1990s. It covered cyberpunk topics such as virtual reality and smart drugs.
 * Reality Hackers: pre-MONDO 2000. See up in _archive_.
+* [Laintine](https://lainzine.org/)
 * [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
 
 ## Comics
@@ -241,6 +250,8 @@ Basically a list of Cyberpunk stuff
 * http://playing.hypernom.com/monkeys
 * http://burymewithmymoney.com/
 * https://apollobase.neocities.org/news.html
+* [Cyberpunk forums](https://cyberpunkforums.com/viewtopic.php?id=361)
+* [Project Cybperpunk](http://project.cyberpunk.ru/idb/)
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
