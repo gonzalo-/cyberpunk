@@ -94,6 +94,7 @@ Basically a list of Cyberpunk stuff
 * [Dark Future Dice | A Cyberpunk 2020](https://player.fm/series/dark-future-dice-a-cyberpunk-2020-podcast)
 * [Compromised](https://player.fm/series/compromised)
 * [Tales from the afternow](http://rantmedia.ca/afternow/)
+* [Robohub](https://robohub.org/podcast/)
 
 ## Social
 * [Cyberpunk Forums](https://cyberpunkforums.com)
@@ -109,6 +110,7 @@ Basically a list of Cyberpunk stuff
 * [The Expanse](https://www.imdb.com/title/tt3230854/)
 * [Altered Carbon](https://www.imdb.com/title/tt2261227): Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
 * [Cowboy Bebop (Live Action)](https://www.imdb.com/title/tt1267295/)
+* [Cyberpunk: Edgerunners](https://www.imdb.com/title/tt12590266/)
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
@@ -134,12 +136,10 @@ Basically a list of Cyberpunk stuff
 * [Robot Carnival](https://en.wikipedia.org/wiki/Robot_Carnival)
 * [Roujin Z](https://en.wikipedia.org/wiki/Roujin_Z)
 * [Metropolis](https://en.wikipedia.org/wiki/Metropolis_(2001_film))
-
 * [Ergo Proxy](https://en.wikipedia.org/wiki/Ergo_Proxy)
 * [Viper's Creed](https://en.wikipedia.org/wiki/Viper%27s_Creed)
 * [Psycho-Pass](https://www.imdb.com/title/tt2379308/)
 * [Serial Experiments Lain](https://animanga.fandom.com/wiki/Serial_Experiments_Lain)
-
 * [Texhnolyze](https://texhnolyze.fandom.com/wiki/Texhnolyze_Wiki)
 * [Bubblegum crisis](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis_Wiki)
 * [Mardock Scramble](https://animanga.fandom.com/de/wiki/Mardock_Scramble)
@@ -258,6 +258,9 @@ Basically a list of Cyberpunk stuff
 * [CyberPunk Documentary](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
 * [N-O-D-E TV](https://www.youtube.com/c/NODEtv/videos)
 * [SeanHodgins](https://www.youtube.com/c/SeanHodgins/videos)
+* [Sean Hodgins](https://www.youtube.com/c/SeanHodgins/videos)
+* [Cyberpunk Documentary PART 1](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
+* [BBS Documentary](https://www.youtube.com/watch?v=nO5vjmDFZaI)
 
 ## Texts
 * [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
@@ -303,7 +306,7 @@ Basically a list of Cyberpunk stuff
 * [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk): Python package on top of matplotlib to create 'cyberpunk' style plots
 * [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch): Collection of glitch video effects
 * [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch): Jpg glitch for the browser
-* [propjockey/augmented-ui](Augmented UI): Cyberpunk UI components in CSS
+* [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui): Cyberpunk UI components in CSS
 * [arwes/arwes](Arwes): Scifi UI CSS
 
 ## Music
