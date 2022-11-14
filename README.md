@@ -122,7 +122,7 @@ Basically a list of Cyberpunk stuff
 * [Down Load: Namu Amida Butsu wa Ai no Uta](https://myanimelist.net/anime/3152/Down_Load__Namu_Amida_Butsu_wa_Ai_no_Uta)
 * [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)
 * [Ghost in the Shell: The New Movie](https://www.imdb.com/title/tt4337072/)
-* [Ghost in the Shell - Stand Alone Complex](https://www.imdb.com/title/tt0346314/)
+* [Ghost in the Shell: Stand Alone Complex](https://www.imdb.com/title/tt0346314/)
 * [Ghost in the Shell 2: Innocence](https://www.imdb.com/title/tt0347246/)
 * [Ghost in the Shell 2.0](https://www.imdb.com/title/tt1260502/)
 * [Ghost in the Shell: Stand Alone Complex - Solid State Society](https://www.imdb.com/title/tt0856797/)
