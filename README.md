@@ -136,12 +136,10 @@ Basically a list of Cyberpunk stuff
 * [Robot Carnival](https://en.wikipedia.org/wiki/Robot_Carnival)
 * [Roujin Z](https://en.wikipedia.org/wiki/Roujin_Z)
 * [Metropolis](https://en.wikipedia.org/wiki/Metropolis_(2001_film))
-
 * [Ergo Proxy](https://en.wikipedia.org/wiki/Ergo_Proxy)
 * [Viper's Creed](https://en.wikipedia.org/wiki/Viper%27s_Creed)
 * [Psycho-Pass](https://www.imdb.com/title/tt2379308/)
 * [Serial Experiments Lain](https://animanga.fandom.com/wiki/Serial_Experiments_Lain)
-
 * [Texhnolyze](https://texhnolyze.fandom.com/wiki/Texhnolyze_Wiki)
 * [Bubblegum crisis](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis_Wiki)
 * [Mardock Scramble](https://animanga.fandom.com/de/wiki/Mardock_Scramble)
@@ -308,7 +306,7 @@ Basically a list of Cyberpunk stuff
 * [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk): Python package on top of matplotlib to create 'cyberpunk' style plots
 * [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch): Collection of glitch video effects
 * [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch): Jpg glitch for the browser
-* [propjockey/augmented-ui](Augmented UI): Cyberpunk UI components in CSS
+* [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui): Cyberpunk UI components in CSS
 * [arwes/arwes](Arwes): Scifi UI CSS
 
 ## Music
