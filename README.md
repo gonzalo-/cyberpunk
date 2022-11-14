@@ -2,14 +2,14 @@
 <h4 align="center">a list of cyberpunk stuff</h4>
 
 <h5 align="left">Collaborate: </h5>
-- diffs over email (figure out)
-- PR over Github
-- [honk](https://honk.x61.sh/) me
-- [elon](https://twitter.com/x61sh) me
+* diffs over email (figure out).
+* PR over Github.
+* [honk](https://honk.x61.sh/) me.
+* [elon](https://twitter.com/x61sh) me.
 
 <h5 align="left">Mirrors if you hate Github: </h5>
-- [sourcehut](https://git.sr.ht/~gonzalo/cyberpunk)
-- [codeberg](https://codeberg.org/gonzalo/cyberpunk)
+* [sourcehut](https://git.sr.ht/~gonzalo/cyberpunk)
+* [codeberg](https://codeberg.org/gonzalo/cyberpunk)
 
 ![CyberPunk Logo](/wallpapers/cyberpunk-city-buildings-sci-fi-uhdpaper.com-4K-4.74-wp.thumbnail.jpg)
 
