@@ -168,7 +168,7 @@
 * [Datenschleuder](https://ds.ccc.de/): German hacker magazine that is published at irregular intervals by the Chaos Computer Club (CCC). Topics include primarily political and technical aspects of the digital world (freedom of information, data privacy (data protection), closed-circuit television, personal privacy (personal rights), cryptography and many more). 
 * MONDO 2000 ([current](https://www.mondo2000.com/), [covers](http://www.mondo2000.net/), [archive](https://archive.org/details/mondohistory)): Mondo 2000 was a glossy cyberculture magazine published in California during the 1980s and 1990s. It covered cyberpunk topics such as virtual reality and smart drugs.
 * Reality Hackers: pre-MONDO 2000. See up in _archive_.
-* [Laintine](https://lainzine.org/)
+* [Lainzine](https://lainzine.org/)
 * [WIRED](http://wired.com/): WIRED is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.
 
 ## Comics
@@ -255,6 +255,8 @@
 * https://apollobase.neocities.org/news.html
 * [Cyberpunk forums](https://cyberpunkforums.com/viewtopic.php?id=361)
 * [Project Cybperpunk](http://project.cyberpunk.ru/idb/)
+* [Jinteki](https://jinteki.industries/)
+* [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
@@ -310,6 +312,8 @@
 * [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch): Jpg glitch for the browser
 * [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui): Cyberpunk UI components in CSS
 * [arwes/arwes](Arwes): Scifi UI CSS
+* [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+* [Jinteki code](https://github.com/Hal47/cyberlife-site)
 
 ## Music
 * [3TEETH](https://3teeth.org/)
@@ -327,6 +331,7 @@
 * [Squarepusher](https://squarepusher.net/)
 * [The Prodigy](https://en.wikipedia.org/wiki/The_Prodigy)
 * [Youth Code](https://www.discogs.com/es/artist/3148183-Youth-Code)
+* [Lainchan's radio stream](https://lainchan.org/radio)
 
 ## Video Games
 * [2064: Read Only Memories](https://en.wikipedia.org/wiki/2064%3A_Read_Only_Memories)
