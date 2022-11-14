@@ -7,7 +7,6 @@
 - [honk](https://honk.x61.sh/) me.
 - [elon](https://twitter.com/x61sh) me.
 
-
 ### Mirrors:
 - [sourcehut](https://git.sr.ht/~gonzalo/cyberpunk)
 - [codeberg](https://codeberg.org/gonzalo/cyberpunk)
@@ -105,6 +104,7 @@
 * [Compromised](https://player.fm/series/compromised)
 * [Tales from the afternow](http://rantmedia.ca/afternow/)
 * [Robohub](https://robohub.org/podcast/)
+* [Jovem Nerd](https://www.jovemnerd.com.br/playlist/rpg-cyberpunk/)
 
 ## Social
 * [Cyberpunk Forums](https://cyberpunkforums.com)
@@ -121,6 +121,7 @@
 * [Altered Carbon](https://www.imdb.com/title/tt2261227): Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
 * [Cowboy Bebop (Live Action)](https://www.imdb.com/title/tt1267295/)
 * [Cyberpunk: Edgerunners](https://www.imdb.com/title/tt12590266/)
+* [Blade Runner: Black Lotus](https://www.imdb.com/title/tt9359796/)
 
 ## Anime
 * [Akira](https://www.imdb.com/title/tt0094625/)
