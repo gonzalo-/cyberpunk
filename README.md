@@ -181,11 +181,7 @@ Basically a list of Cyberpunk stuff
 * http://virtualizedmemories.tumblr.com/
 * http://alteredcarbone.tumblr.com/
 * https://archillect.com/
-* http://anonymousmutekittenssociety.tumblr.com/
-* http://astraldouble.com/
-* https://binaryreflex.tumblr.com/
 * http://blackiochronicles.tumblr.com/
-* http://blog.outrunnerscomic.com/
 * http://c-yberpunk.tumblr.com/
 * http://cf-12.tumblr.com/
 * http://cheezeb0rg.tumblr.com/
@@ -210,16 +206,13 @@ Basically a list of Cyberpunk stuff
 * http://helaeon.tumblr.com/
 * http://instinctualization.tumblr.com/
 * http://internet-of-dreams.tumblr.com/
-* http://katisque.tumblr.com/
 * http://khymeira.tumblr.com/
-* http://neuromaencer.com/
 * http://noclipdesigns.tumblr.com/
 * http://ono-sendai-cyberspace7.tumblr.com/
 * http://opticalcamouflage.tumblr.com/
 * http://otakugangsta.com/
 * http://parallaxdimension.tumblr.com/
 * http://powerglove.tumblr.com/
-* http://queenanesthetic.tumblr.com/
 * http://rekall.tumblr.com/
 * http://reverse-digital.tumblr.com/
 * http://roboticnetwork.tumblr.com/
@@ -286,7 +279,6 @@ Basically a list of Cyberpunk stuff
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 * [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway): Also read Little Brother, Makers, Attack Surface or basically anything by Doctorow for amazing near-future cyberpunk
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
-* [Zero-signal](https://rickwayne.com/zero-signal)
 * [N-O-D-E](https://n-o-d-e.live/zine/NODE_VOL_02.pdf)
 
 ## Art
@@ -370,5 +362,4 @@ Basically a list of Cyberpunk stuff
 * [neo4ic](https://neo4ic.com/)
 * [Niepce Inc](https://niepceinc.com/)
 * [N O D E](https://n-o-d-e.shop/)
-* [Yksous](https://yksous.com/)
 * [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
