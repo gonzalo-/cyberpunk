@@ -11,7 +11,7 @@
 - [sourcehut](https://git.sr.ht/~gonzalo/cyberpunk)
 - [codeberg](https://codeberg.org/gonzalo/cyberpunk)
 
-![CyberPunk Logo](/wallpapers/cyberpunk-city-buildings-sci-fi-uhdpaper.com-4K-4.74-wp.thumbnail.jpg)
+![CyberPunk Logo](/wallpapers/teufelsberg.png)
 
 ## Table of Contents
 
