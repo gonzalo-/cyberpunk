@@ -112,6 +112,18 @@
 * [Tales from the afternow](http://rantmedia.ca/afternow/)
 * [Robohub](https://robohub.org/podcast/)
 * [Jovem Nerd](https://www.jovemnerd.com.br/playlist/rpg-cyberpunk/)
+* [Omega Tau](https://omegataupodcast.net/)
+* [Defense One](https://www.defenseone.com/topic/podcast/)
+* [Flash Forward Pod](https://www.flashforwardpod.com/)
+* [Inside Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/insideskunkworks.html)
+* [Moonshot](https://moonshot.audio/)
+* [Planetary Radio](https://www.planetary.org/planetary-radio)
+* [Titans of nuclear](https://www.titansofnuclear.com/)
+* [Host in the Shell](https://hostsintheshell.buzzsprout.com/)
+* [Megacorp](https://open.spotify.com/show/4i5u3yip3lCdRr9HM3s9rL)
+* [The Andi-Dystopians](https://open.spotify.com/show/7c1sNJ20U6xEEr628KMJZK)
+* [Hack a day](https://open.spotify.com/show/3NRV0mhZa8xeRT0EyLPaIp)
+* [Consuming Cyberpunk](https://consumingcyberpunk.com/podcast)
 
 ## Social
 * [Cyberpunk Forums](https://cyberpunkforums.com)
