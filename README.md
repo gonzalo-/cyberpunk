@@ -369,6 +369,7 @@
 * [Anon-Cafe](https://anon.cafe/cyber/)
 * [Wirechan](https://wirechan.org/)
 * [Cyberpunk Database](https://cyberpunkdatabase.net/)
+* [Cyberpunk Noise](https://cyberpunknoise.tumblr.com/)
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
@@ -404,6 +405,9 @@
 * [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway): Also read Little Brother, Makers, Attack Surface or basically anything by Doctorow for amazing near-future cyberpunk
 * [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 * [N-O-D-E](https://n-o-d-e.live/zine/NODE_VOL_02.pdf)
+* [Necrotech](https://www.goodreads.com/book/show/30183216-necrotech)
+* [Nanoshock](https://www.goodreads.com/book/show/33658170-nanoshock)
+* [Sprawl trilogy](https://en.wikipedia.org/wiki/Sprawl_trilogy)
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
