@@ -105,25 +105,41 @@
 * [Anon (2018)](https://www.imdb.com/title/tt5397194/): In a world without anonymity or crime, a detective meets a woman who threatens their security.
 
 ## Podcasts
-* [The Neon Streets](https://player.fm/series/the-neon-streets)
-* [Cyberpunk Uncensored](https://player.fm/series/cyberpunk-uncensored)
-* [Dark Future Dice | A Cyberpunk 2020](https://player.fm/series/dark-future-dice-a-cyberpunk-2020-podcast)
 * [Compromised](https://player.fm/series/compromised)
-* [Tales from the afternow](http://rantmedia.ca/afternow/)
-* [Robohub](https://robohub.org/podcast/)
-* [Jovem Nerd](https://www.jovemnerd.com.br/playlist/rpg-cyberpunk/)
-* [Omega Tau](https://omegataupodcast.net/)
+* [Cyberpunk Librarian](https://cyberpunklibrarian.com/)
+* [Cyberpunk News](https://cyberpunknews.com/category/podcast/)
+* [Cyberpunk Radio](https://www.cyberpunk-radio.de/)
+* [Cyberpunk Red](https://cyberpunkred.net/)
+* [Cyberpunk Uncensored](https://player.fm/series/cyberpunk-uncensored)
+* [Cyberpunk](https://www.bbc.co.uk/programmes/p06msxvh)
+* [Cyberpunks and Lizards](https://www.podchaser.com/podcasts/cyberpunks-and-lizards-1652004)
+* [Dark Future Dice | A Cyberpunk 2020](https://player.fm/series/dark-future-dice-a-cyberpunk-2020-podcast)
 * [Defense One](https://www.defenseone.com/topic/podcast/)
 * [Flash Forward Pod](https://www.flashforwardpod.com/)
-* [Inside Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/insideskunkworks.html)
-* [Moonshot](https://moonshot.audio/)
-* [Planetary Radio](https://www.planetary.org/planetary-radio)
-* [Titans of nuclear](https://www.titansofnuclear.com/)
-* [Host in the Shell](https://hostsintheshell.buzzsprout.com/)
-* [Megacorp](https://open.spotify.com/show/4i5u3yip3lCdRr9HM3s9rL)
-* [The Andi-Dystopians](https://open.spotify.com/show/7c1sNJ20U6xEEr628KMJZK)
 * [Hack a day](https://open.spotify.com/show/3NRV0mhZa8xeRT0EyLPaIp)
-* [Consuming Cyberpunk](https://consumingcyberpunk.com/podcast)
+* [Host in the Shell](https://hostsintheshell.buzzsprout.com/)
+* [Inside Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/insideskunkworks.html)
+* [Jovem Nerd](https://www.jovemnerd.com.br/playlist/rpg-cyberpunk/)
+* [Megacorp](https://open.spotify.com/show/4i5u3yip3lCdRr9HM3s9rL)
+* [Moonshot](https://moonshot.audio/)
+* [Neo-Anarchist Podcast](http://neo-anarchist.com/)
+* [NeoScum: A Shadowrun Actual Play Podcast](https://neoscum.com/)
+* [Nerd Noise Radio](https://nerdnoiseradio.blogspot.com/)
+* [Omega Tau](https://omegataupodcast.net/)
+* [Planetary Radio](https://www.planetary.org/planetary-radio)
+* [Radio Free Cybertron: The Transformers Podcast](https://www.tfradio.net/)
+* [Robohub](https://robohub.org/podcast/)
+* [Sleeping Situation](https://sleepingsituation.com/)
+* [Tales from the afternow](http://rantmedia.ca/afternow/)
+* [Talking to Ghosts](http://talkingtoghosts.com/)
+* [The Andi-Dystopians](https://open.spotify.com/show/7c1sNJ20U6xEEr628KMJZK)
+* [The Arcology Podcast](http://arcologypodcast.com/)
+* [The GOGP Show](https://gog.show/)
+* [The Leviathan Chronicles](https://www.leviathanchronicles.com/)
+* [The Neon Streets](https://player.fm/series/the-neon-streets)
+* [The RetroBlasting Star Wars Collecting Show](http://www.retroblasting.com/)
+* [The Sixth World Podcast](http://sixthworldpodcast.blogspot.com/)
+* [Titans of nuclear](https://www.titansofnuclear.com/)
 
 ## Social
 * [Cyberpunk Forums](https://cyberpunkforums.com)
@@ -133,14 +149,30 @@
 * [Pleroma/Soykaf](https://pleroma.soykaf.com/main/all)
 
 ## TV Shows
-* [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+* [Aeon Flux](https://www.imdb.com/title/tt0111873/)
+* [Almost Human](https://www.imdb.com/title/tt2654580/)
+* [Altered Carbon](https://www.imdb.com/title/tt2261227/)
+* [Battlestar Galactica](https://www.imdb.com/title/tt0407362/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
-* [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
-* [The Expanse](https://www.imdb.com/title/tt3230854/)
-* [Altered Carbon](https://www.imdb.com/title/tt2261227): Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
+* [Blade Runner: Black Lotus](https://www.imdb.com/title/tt12672962/)
+* [Caprica](https://www.imdb.com/title/tt0799862/)
+* [Continuum](https://www.imdb.com/title/tt1954347/)
 * [Cowboy Bebop (Live Action)](https://www.imdb.com/title/tt1267295/)
-* [Cyberpunk: Edgerunners](https://www.imdb.com/title/tt12590266/)
-* [Blade Runner: Black Lotus](https://www.imdb.com/title/tt9359796/)
+* [Cyber City Oedo 808](https://www.imdb.com/title/tt0106626/)
+* [Cyberpunk: Edgerunners](https://www.imdb.com/title/tt12469742/)
+* [Dark](https://www.imdb.com/title/tt5753856/)
+* [Devs](https://www.imdb.com/title/tt8134186/)
+* [Dollhouse](https://www.imdb.com/title/tt1135300/)
+* [Electric Dreams](https://www.imdb.com/title/tt5711280/)
+* [Firefly](https://www.imdb.com/title/tt0303461/)
+* [Fringe](https://www.imdb.com/title/tt1119644/)
+* [Humans](https://www.imdb.com/title/tt4122068/)
+* [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
+* [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+* [Sense8](https://www.imdb.com/title/tt2431438/)
+* [Stargate SG-1](https://www.imdb.com/title/tt0118480/)
+* [The Expanse](https://www.imdb.com/title/tt3230854/)
+* [Westworld](https://www.imdb.com/title/tt0475784/)
 
 ## Anime
 * [009 Re: Cyborg](https://www.imdb.com/title/tt2078523/)
@@ -152,8 +184,10 @@
 * [AD Police: To Protect And Serve](https://www.imdb.com/title/tt0189238/)
 * [Aeon Flux](https://www.imdb.com/title/tt0111873/)
 * [Akira](https://www.imdb.com/title/tt0094625/)
+* [Akudama Drive](https://www.imdb.com/title/tt12331342/)
 * [Altered Carbon: Resleeved](https://www.imdb.com/title/tt9310328/)
 * [Andromedia](https://www.imdb.com/title/tt0303658/)
+* [Angel Cop](https://www.imdb.com/title/tt0096816/)
 * [Appleseed](https://www.imdb.com/title/tt0094668/)
 * [Appleseed](https://www.imdb.com/title/tt0401233/)
 * [Appleseed Alpha](https://www.imdb.com/title/tt3638012/)
@@ -253,6 +287,8 @@
 * [Silent Mobius 2](https://www.imdb.com/title/tt0160869/)
 * [Sin: The Movie](https://www.imdb.com/title/tt0253709/)
 * [Summer Wars](https://www.imdb.com/title/tt1474276/)
+* [Space Cobra](https://www.imdb.com/title/tt0235138/)
+* [Space The Animation](https://www.imdb.com/title/tt2454264/)
 * [Sword Art Online The Movie: Ordinal Scale](https://www.imdb.com/title/tt5544384/)
 * [Techno Police 21C](https://www.imdb.com/title/tt0084774/)
 * [Texhnolyze](https://www.imdb.com/title/tt0409630/)
@@ -261,13 +297,71 @@
 * [Time Of Eve](https://www.imdb.com/title/tt1506339/)
 * [Un-Go](https://www.imdb.com/title/tt2127216/)
 * [Vexille](https://www.imdb.com/title/tt0970472/)
+* [Virus Buster Serge](https://www.imdb.com/title/tt0421480/)
 * [Viper's Creed](https://www.imdb.com/title/tt2033910/)
 * [WXIII: Patlabor the Movie 3](https://www.imdb.com/title/tt0318819/)
 
 ## Manga
+* [20th Century Boys](https://en.wikipedia.org/wiki/20th_Century_Boys)
 * [A.D. Police Files](https://en.wikipedia.org/wiki/A.D._Police_Files#Manga)
+* [ARMS](https://en.wikipedia.org/wiki/ARMS_(manga))
+* [AR∀GO](https://en.wikipedia.org/wiki/AR%C2%80GO)
+* [Abara](https://en.wikipedia.org/wiki/Abara)
+* [Akira](https://en.wikipedia.org/wiki/Akira_(manga))
+* [Akumetsu](https://en.wikipedia.org/wiki/Akumetsu)
+* [All you need is kill](https://en.wikipedia.org/wiki/All_You_Need_Is_Kill)
+* [Angel Cop](https://en.wikipedia.org/wiki/Angel_Cop)
+* [Aposimz](https://en.wikipedia.org/wiki/Aposimz)
+* [Appleseed](https://en.wikipedia.org/wiki/Appleseed_(manga))
+* [Bakuretsu Tenshi](https://en.wikipedia.org/wiki/Burst_Angel)
+* [Battle Angel Alita](https://en.wikipedia.org/wiki/Battle_Angel_Alita)
+* [Bio Booster Armor Guyver](https://en.wikipedia.org/wiki/Bio_Booster_Armor_Guyver)
+* [Biomega](https://en.wikipedia.org/wiki/Biomega_(manga))
+* [Black Lagoon](https://en.wikipedia.org/wiki/Black_Lagoon)
+* [Black Magic](https://en.wikipedia.org/wiki/Black_Magic_(manga))
+* [Blame! Academy and So On](https://en.wikipedia.org/wiki/Blame!_Academy_and_So_On)
 * [Blame!](https://en.wikipedia.org/wiki/Blame!)
+* [Chobits](https://en.wikipedia.org/wiki/Chobits)
+* [Cyber Blue](https://en.wikipedia.org/wiki/Cyber_Blue)
+* [Cyber City Oedo 808](https://en.wikipedia.org/wiki/Cyber_City_Oedo_808)
+* [Cyber Knight](https://en.wikipedia.org/wiki/Cyber_Knight)
+* [Dimension W](https://en.wikipedia.org/wiki/Dimension_W)
+* [Dogs: Bullets & Carnage](https://en.wikipedia.org/wiki/Dogs:_Bullets_%26_Carnage)
+* [Dominion: Tank Police](https://en.wikipedia.org/wiki/Dominion:_Tank_Police)
+* [Dorohedoro](https://en.wikipedia.org/wiki/Dorohedoro)
+* [Eden: It's an Endless World!](https://en.wikipedia.org/wiki/Eden:_It%27s_an_Endless_World!)
+* [Fire Candy](https://en.wikipedia.org/wiki/Fire_Candy)
+* [Gantz](https://en.wikipedia.org/wiki/Gantz)
+* [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell)
+* [Giganto Maxia](https://en.wikipedia.org/wiki/Giganto_Maxia)
+* [Gunm: Mars Chronicle](https://en.wikipedia.org/wiki/Gunm:_Mars_Chronicle)
+* [Gunnm: Last Order](https://en.wikipedia.org/wiki/Gunnm:_Last_Order)
+* [Humanity Has Declined](https://en.wikipedia.org/wiki/Humanity_Has_Declined)
+* [Kanshikan Tsunemori Akane](https://en.wikipedia.org/wiki/Kanshikan_Tsunemori_Akane)
+* [King of Thorn](https://en.wikipedia.org/wiki/King_of_Thorn)
+* [Metropolis](https://en.wikipedia.org/wiki/Metropolis_(manga))
+* [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
+* [No Guns Life](https://en.wikipedia.org/wiki/No_Guns_Life)
+* [No. 6](https://en.wikipedia.org/wiki/No._6)
+* [Origin](https://tvtropes.org/pmwiki/pmwiki.php/Manga/Origin)
+* [Pandora in the Crimson Shell: Ghost Urn](https://en.wikipedia.org/wiki/Pandora_in_the_Crimson_Shell:_Ghost_Urn)
+* [Paranoia Star](https://en.wikipedia.org/wiki/Paranoia_Star)
+* [Parasyte](https://en.wikipedia.org/wiki/Parasyte)
+* [Pluto](https://en.wikipedia.org/wiki/Pluto_(manga))
+* [Post-Human](https://en.wikipedia.org/wiki/Post-Human_(manga))
 * [Prophecy](https://en.wikipedia.org/wiki/Prophecy_(manga))
+* [Psycho-Pass: Inspector Shinya Kogami](https://en.wikipedia.org/wiki/Psycho-Pass:_Inspector_Shinya_Kogami)
+* [Real Account](https://en.wikipedia.org/wiki/Real_Account)
+* [Saber Marionette J](https://en.wikipedia.org/wiki/Saber_Marionette_J)
+* [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
+* [Terra Formars](https://en.wikipedia.org/wiki/Terra_Formars)
+* [Texhnolyze](https://en.wikipedia.org/wiki/Texhnolyze)
+* [Time of Eve](https://en.wikipedia.org/wiki/Time_of_Eve)
+* [Trigun](https://en.wikipedia.org/wiki/Trigun)
+* [Venus Wars](https://en.wikipedia.org/wiki/Venus_Wars)
+* [Weathering With You](https://en.wikipedia.org/wiki/Weathering_with_You)
+* [Wolf's Rain](https://en.wikipedia.org/wiki/Wolf%27s_Rain)
+* [Yokohama Kaidashi Kikou](https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kik%C5%8D)
 
 ## Magazines
 * [2600](https://www.2600.com/): The Hacker Quarterly
@@ -370,6 +464,8 @@
 * [Wirechan](https://wirechan.org/)
 * [Cyberpunk Database](https://cyberpunkdatabase.net/)
 * [Cyberpunk Noise](https://cyberpunknoise.tumblr.com/)
+* [Wired - Cyberpunk](https://www.wired.com/tag/cyberpunk/)
+* [Cyberpunk Culture](https://www.cyberpunkculture.com/)
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
@@ -384,30 +480,50 @@
 * [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
 
 ## Books
+* [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) by Charles Stross
+* [All Tomorrow's Parties](https://www.goodreads.com/book/show/827.All_Tomorrow_s_Parties) by William Gibson
 * [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon): Part #1, also read Broken Angels and Woken Furies
+* [Altered Carbon](https://www.goodreads.com/book/show/40651883-altered-carbon) by Richard K. Morgan
+* [Altered States](https://www.goodreads.com/book/show/284438.Altered_States) by Paddy Chayefsky
 * [Autonomous](https://www.goodreads.com/book/show/28209634-autonomous)
-* [Count Zero](https://www.goodreads.com/book/show/22200.Count_Zero)
-* [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_)
+* [Count Zero](https://www.goodreads.com/book/show/827.Count_Zero) by William Gibson
+* [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_) by Philip K. Dick
 * [Dogs of War](https://www.goodreads.com/book/show/35827220-dogs-of-war)
+* [Ghost in the Shell](https://www.goodreads.com/book/show/182537.Ghost_in_the_Shell) by Masamune Shirow
+* [Hard-Boiled Wonderland and the End of the World](https://www.goodreads.com/book/show/10349.Hard_Boiled_Wonderland_and_the_End_of_the_World) by Haruki Murakami
+* [Hardwired](https://www.goodreads.com/book/show/814835.Hardwired) by Walter Jon Williams
 * [Islands in the Net](https://www.goodreads.com/book/show/218571.Islands_in_the_Net)
+* [Metro 2033](https://www.goodreads.com/book/show/172621.METRO_2033) by Dmitry Glukhovsky
 * [Mirrorshades](https://www.goodreads.com/book/show/302702.Mirrorshades): The Cyberpunk Anthology
-* [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer)
-* [Nexus](https://www.goodreads.com/book/show/13642710-nexus): Part 1 of 3 (also read Crux and Apex)
-* [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
-* [REAMDE](https://www.goodreads.com/book/show/10552338-reamde)
-* [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash)
-* [Spares](https://www.goodreads.com/book/show/21010.Spares)
-* [The Departure](https://www.goodreads.com/book/show/10648878-the-departure)
-* [The Peripheral](https://www.goodreads.com/book/show/24611819-the-peripheral)
-* [The Water Knife](https://www.goodreads.com/book/show/23209924-the-water-knife)
-* [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air)
-* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
-* [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway): Also read Little Brother, Makers, Attack Surface or basically anything by Doctorow for amazing near-future cyberpunk
-* [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
+* [Mona Lisa Overdrive](https://www.goodreads.com/book/show/827.Mona_Lisa_Overdrive) by William Gibson
 * [N-O-D-E](https://n-o-d-e.live/zine/NODE_VOL_02.pdf)
 * [Necrotech](https://www.goodreads.com/book/show/30183216-necrotech)
-* [Nanoshock](https://www.goodreads.com/book/show/33658170-nanoshock)
+* [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) by William Gibson
+* [Nexus](https://www.goodreads.com/book/show/13642710-nexus): Part 1 of 3 (also read Crux and Apex)
+* [Pattern Recognition](https://www.goodreads.com/book/show/901.Pattern_Recognition) by William Gibson
+* [Permutation City](https://www.goodreads.com/book/show/81981.Permutation_City) by Greg Egan
+* [REAMDE](https://www.goodreads.com/book/show/10552338-reamde)
+* [Rainbows End](https://www.goodreads.com/book/show/131704.Rainbows_End) by Vernor Vinge
+* [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) by Ernest Cline
+* [Ready Player Two](https://www.goodreads.com/book/show/51935000-ready-player-two) by Ernest Cline
+* [Schismatrix Plus](https://www.goodreads.com/book/show/11765.Schismatrix_Plus) by Bruce Sterling
+* [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
+* [Spares](https://www.goodreads.com/book/show/21010.Spares)
 * [Sprawl trilogy](https://en.wikipedia.org/wiki/Sprawl_trilogy)
+* [Synners](https://www.goodreads.com/book/show/84484.Synners) by Pat Cadigan
+* [The Departure](https://www.goodreads.com/book/show/10648878-the-departure)
+* [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) by Neal Stephenson
+* [The Peripheral](https://www.goodreads.com/book/show/20986005-the-peripheral) by William Gibson
+* [The Quantum Thief](https://www.goodreads.com/book/show/8717268-the-quantum-thief) by Hannu Rajaniemi
+* [The Stars My Destination](https://www.goodreads.com/book/show/21697.The_Stars_My_Destination) by Alfred Bester
+* [The Ware Tetralogy](https://www.goodreads.com/book/show/530443.The_Ware_Tetralogy) by Rudy Rucker
+* [The Water Knife](https://www.goodreads.com/book/show/23209924-the-water-knife)
+* [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) by Paolo Bacigalupi
+* [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air)
+* [Virtual Light](https://www.goodreads.com/book/show/179753.Virtual_Light) by William Gibson
+* [Vurt](https://www.goodreads.com/book/show/14064.Vurt) by Jeff Noon
+* [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway): Also read Little Brother, Makers, Attack Surface or basically anything by Doctorow for amazing near-future cyberpunk
+* [When Gravity Fails](https://www.goodreads.com/book/show/23629.When_Gravity_Fails) by George Alec Effinger
 
 ## Art
 * [Art prints by Sheng Lam](https://www.inprnt.com/gallery/8bitwizard/)
