@@ -93,7 +93,7 @@
 * [Hackers](https://www.imdb.com/title/tt0113243/): Hackers are blamed for making a virus that will capsize five oil tankers.
 * [Technotise: Edit and I](https://en.wikipedia.org/wiki/Technotise:_Edit_%26_I): Edit, a psychology student, installs herself a stolen military chip to pass the university. But due certain circumstances Edit develops a second personality.
 * [Space Sweepers](https://www.imdb.com/title/tt12838766/): Year 2092 and follows the crew of a space junk collector ship called The Victory.
-* [Kamikaze](https://www.imdb.com/title/tt0084191)
+* [Kamikaze 89](https://www.imdb.com/title/tt0084191)
 * [Hands of Steel](https://www.imdb.com/title/tt0091166/)
 * [Class of 1999](https://www.imdb.com/title/tt0099277/)
 * [Crime Zone](https://www.imdb.com/title/tt0094918/)
