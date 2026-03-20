@@ -37,7 +37,6 @@
 - [Wallpapers](/wallpapers/)
 - [Wearable](#wearable)
 
-
 ## Movies
 * [Ghost in the Shell](https://www.imdb.com/title/tt1219827/): In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.
 * [Gamer](https://www.imdb.com/title/tt1034032/):  In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. 
@@ -257,6 +256,7 @@
 * [Heat Guy J](https://www.imdb.com/title/tt0395393/)
 * [Ingress: The Animation](https://www.imdb.com/title/tt9561968/)
 * [Lady Battle Cop](https://www.imdb.com/title/tt0188804/)
+* [Lazarus](https://www.adultswim.com/videos/lazarus)
 * [Macross Plus](https://www.imdb.com/title/tt0110426/)
 * [Malice@Doll](https://www.imdb.com/title/tt0363277/)
 * [Mega Man](https://www.imdb.com/title/tt0165046/)
@@ -385,6 +385,7 @@
 * [mntre](https://mntre.com/)
 
 ## WWW
+* [cyberpunkhub](https://cyberpunkhub.com/)
 * [Neon Dystopia](https://www.neondystopia.com/): Neon Dystopia was created in November 2014 with the idea of bringing together fans of Cyberpunk.
 * [Reddit r/cyberpunk](https://www.reddit.com/r/Cyberpunk/)
 * [8kun.top/cyber](https://8kun.top/cyber/catalog.html)
