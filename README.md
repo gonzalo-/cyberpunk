@@ -3,13 +3,14 @@
 
 ### Collaborate:
 - diffs over email (figure out).
-- PR over Github.
+- PR over Github will take a while, use email.
 - [honk](https://honk.x61.sh/) me.
 - [elon](https://twitter.com/x61sh) me.
 
 ### Mirrors:
 - [sourcehut](https://git.sr.ht/~gonzalo/cyberpunk)
 - [codeberg](https://codeberg.org/gonzalo/cyberpunk)
+- [github](https://github.com/gonzalo-/cyberpunk)
 
 ![CyberPunk Logo](/wallpapers/teufelsberg.png)
 
