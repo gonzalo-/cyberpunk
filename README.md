@@ -39,6 +39,15 @@
 - [Wearable](#wearable)
 
 ## Movies
+* [Afterlife](https://www.imdb.com/title/tt39050792/): In a future shaped by war, AI, and fractured timelines, five interconnected sci-fi stories explore humanity's fight for connection, survival, and meaning across time and space
+* [Alien](https://www.imdb.com/title/tt0078748/): After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+* [Aliens](https://www.imdb.com/title/tt0090605/): Decades after surviving the Nostromo incident
+* [Alien: Romulus](https://www.imdb.com/title/tt18412256/): While scavenging the deep ends of a derelict space station
+* [Prometheus](https://www.imdb.com/title/tt1446714/): Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.
+* [Alien³](https://www.imdb.com/title/tt0103644/): Returning from LV-426, Ellen Ripley crash-lands on the maximum-security prison Fiorina 161
+* [Alien: Covenant](https://www.imdb.com/title/tt2316204/): The crew of a colony ship, bound for a remote planet
+* [Alien: Resurrection](https://www.imdb.com/title/tt0118583/): Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth.
+* [Atlas](https://www.imdb.com/title/tt14856980/): In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.
 * [Ghost in the Shell](https://www.imdb.com/title/tt1219827/): In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.
 * [Gamer](https://www.imdb.com/title/tt1034032/):  In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. 
 * [Alita: Battle Angel](https://www.imdb.com/title/tt0437086/):  A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is. 
@@ -56,6 +65,7 @@
 * TRON:
   - [TRON](https://www.imdb.com/title/tt0084827/): A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program. 
   - [TRON: Legacy](https://www.imdb.com/title/tt1104001/):  The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
+  - [TRON: Ares](https://www.imdb.com/title/tt6604188/): A highly sophisticated program, Ares, is sent from the digital world into the real world on a dangerous mission.
 * [Looper](https://www.imdb.com/title/tt1276104/): In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination. 
 * [Total Recall](https://www.imdb.com/title/tt0100802/): When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or is he? 
 * [Total Recall (remake)](https://www.imdb.com/title/tt1386703/): A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run. 
@@ -67,6 +77,7 @@
   - [Judge Dredd](https://www.imdb.com/title/tt0113492/): In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart. 
   - [Dredd](https://www.imdb.com/title/tt1343727/): In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO. 
 * [I, Robot](https://www.imdb.com/title/tt0343818/): In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity. 
+* [Finch](https://www.imdb.com/title/tt3420504/): On a post-apocalyptic earth, a robot, built to protect the life of his creator's beloved dog, learns about life, love, friendship and what it means to be human.
 * [Love, Death & Robots](https://www.imdb.com/title/tt9561862/): A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy. 
 * [Fortress](https://www.imdb.com/title/tt0106950/): In a future, private underground prison/Fortress, the inmates are computer controlled with CCTV, dream readers and devices that can cause pain or death. John and his illegally pregnant wife are inside but want to escape before birth. 
 * [Cyborg 2](https://www.imdb.com/title/tt0106639): Two companies battle for Cyborg domination. One's built a cyborg so human, that they hope, she'll get into the competition's HQ and explode. But she escapes with her human martial arts instructor. 
@@ -103,6 +114,13 @@
 * [Ares](https://www.imdb.com/title/tt4216902/): In a future France with many unemployed, big companies run the country.
 * [Finch](https://www.imdb.com/title/tt3420504/): On a post-apocalyptic Earth, a robot, built to protect the life of his creator's beloved dog.
 * [Anon (2018)](https://www.imdb.com/title/tt5397194/): In a world without anonymity or crime, a detective meets a woman who threatens their security.
+* [Project Hail Mary](https://www.imdb.com/title/tt12042730/): A science teacher wakes up alone on a spaceship.
+* [The Running Man (1987)](https://www.imdb.com/title/tt0093894/):In a future dystopian America, a wrongfully accused and convicted policeman gets
+* [The Running Man (2025)](https://www.imdb.com/title/tt14107334/): A man joins a game show in which contestants, allowed to flee anywhere in the world, are pursued by "hunters" hired to kill them.
+* [RoboCop](https://www.imdb.com/title/tt0093870/):Corporate interests resurrect a murdered police officer as a cybernetic enforcer to privatize security in a decaying Detroit. He executes lethal justice while flickering memories of his former life trigger a hunt for his killers.
+* [RoboCop 2](https://www.imdb.com/title/tt0100502/): In bankrupt Detroit, RoboCop battles a fanatical drug lord
+* [RoboCop 3](https://www.imdb.com/title/tt0107978/): Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on "their" land.
+* [RoboCop (2014)](https://www.imdb.com/title/tt1234721/): In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.
 
 ## Podcasts
 * [Compromised](https://player.fm/series/compromised)
@@ -150,6 +168,7 @@
 
 ## TV Shows
 * [Aeon Flux](https://www.imdb.com/title/tt0111873/)
+* [Alien: Earth](https://www.imdb.com/title/tt13623632/)
 * [Almost Human](https://www.imdb.com/title/tt2654580/)
 * [Altered Carbon](https://www.imdb.com/title/tt2261227/)
 * [Battlestar Galactica](https://www.imdb.com/title/tt0407362/)
@@ -167,6 +186,7 @@
 * [Firefly](https://www.imdb.com/title/tt0303461/)
 * [Fringe](https://www.imdb.com/title/tt1119644/)
 * [Humans](https://www.imdb.com/title/tt4122068/)
+* [Murderbot](https://www.imdb.com/title/tt30444310/)
 * [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 * [Sense8](https://www.imdb.com/title/tt2431438/)
@@ -204,7 +224,6 @@
 * [Blade Runner: Black Lotus](https://www.imdb.com/title/tt9359796/)
 * [Blame!](https://www.imdb.com/title/tt6574146/)
 * [Breaker](https://www.imdb.com/title/tt6857848/)
-* [Bubblegum Crash](https://www.imdb.com/title/tt0101514/)
 * [Bubblegum Crisis](https://www.imdb.com/title/tt0088863/)
 * [Bubblegum Crisis: Tokyo 2040](https://www.imdb.com/title/tt0175385/)
 * [Burst City](https://www.imdb.com/title/tt0083609/)
