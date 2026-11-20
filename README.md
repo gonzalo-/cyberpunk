@@ -112,7 +112,6 @@
 * [2047: Virtual Revolution](https://www.imdb.com/title/tt4054004/): In a future mega city, where most people spend most time hooked up to a virtual world.
 * [Advantageous](https://www.imdb.com/title/tt3090670/): In a near-future city where soaring opulence overshadows economic hardship.
 * [Ares](https://www.imdb.com/title/tt4216902/): In a future France with many unemployed, big companies run the country.
-* [Finch](https://www.imdb.com/title/tt3420504/): On a post-apocalyptic Earth, a robot, built to protect the life of his creator's beloved dog.
 * [Anon (2018)](https://www.imdb.com/title/tt5397194/): In a world without anonymity or crime, a detective meets a woman who threatens their security.
 * [Project Hail Mary](https://www.imdb.com/title/tt12042730/): A science teacher wakes up alone on a spaceship.
 * [The Running Man (1987)](https://www.imdb.com/title/tt0093894/):In a future dystopian America, a wrongfully accused and convicted policeman gets
@@ -121,6 +120,7 @@
 * [RoboCop 2](https://www.imdb.com/title/tt0100502/): In bankrupt Detroit, RoboCop battles a fanatical drug lord
 * [RoboCop 3](https://www.imdb.com/title/tt0107978/): Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on "their" land.
 * [RoboCop (2014)](https://www.imdb.com/title/tt1234721/): In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.
+- [Mercy (2026)](https://www.imdb.com/title/tt31050594/): In the near future, a detective stands trial for murdering his wife and has 90 minutes to prove his innocence to an AI judge before it decides his fate.
 
 ## Podcasts
 * [Compromised](https://player.fm/series/compromised)
@@ -173,22 +173,26 @@
 * [Altered Carbon](https://www.imdb.com/title/tt2261227/)
 * [Battlestar Galactica](https://www.imdb.com/title/tt0407362/)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
+- [Blade Runner 2099](https://www.imdb.com/title/tt18224594/)
 * [Blade Runner: Black Lotus](https://www.imdb.com/title/tt12672962/)
 * [Caprica](https://www.imdb.com/title/tt0799862/)
 * [Continuum](https://www.imdb.com/title/tt1954347/)
 * [Cowboy Bebop (Live Action)](https://www.imdb.com/title/tt1267295/)
 * [Cyber City Oedo 808](https://www.imdb.com/title/tt0106626/)
 * [Cyberpunk: Edgerunners](https://www.imdb.com/title/tt12469742/)
+- [Cyberpunk: Edgerunners 2](https://en.wikipedia.org/wiki/Cyberpunk:_Edgerunners_2)
 * [Dark](https://www.imdb.com/title/tt5753856/)
 * [Devs](https://www.imdb.com/title/tt8134186/)
 * [Dollhouse](https://www.imdb.com/title/tt1135300/)
 * [Electric Dreams](https://www.imdb.com/title/tt5711280/)
 * [Firefly](https://www.imdb.com/title/tt0303461/)
 * [Fringe](https://www.imdb.com/title/tt1119644/)
+- [Ghost in the Shell (2026)](https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series))
 * [Humans](https://www.imdb.com/title/tt4122068/)
 * [Murderbot](https://www.imdb.com/title/tt30444310/)
 * [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
 * [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [Neuromancer](https://www.imdb.com/title/tt31512174/)
 * [Sense8](https://www.imdb.com/title/tt2431438/)
 * [Stargate SG-1](https://www.imdb.com/title/tt0118480/)
 * [The Expanse](https://www.imdb.com/title/tt3230854/)
@@ -266,6 +270,7 @@
 * [Ghost In The Shell: Stand Alone Complex](https://www.imdb.com/title/tt0346314/)
 * [Ghost in the Shell: Stand Alone Complex - The Laughing Man](https://www.imdb.com/title/tt1024215/)
 * [Ghost In The Shell: The New Movie](https://www.imdb.com/title/tt4337072/)
+- [Ghost In The Shell (2026)](https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series))
 * [Goku Midnight Eye](https://www.imdb.com/title/tt0097445/)
 * [Grey Digital Target](https://www.imdb.com/title/tt0093118/)
 * [Guinea Pig: Android of Notre Dame](https://www.imdb.com/title/tt0161633/)
@@ -345,6 +350,7 @@
 * [Cyber Blue](https://en.wikipedia.org/wiki/Cyber_Blue)
 * [Cyber City Oedo 808](https://en.wikipedia.org/wiki/Cyber_City_Oedo_808)
 * [Cyber Knight](https://en.wikipedia.org/wiki/Cyber_Knight)
+- [Cyberpunk: Edgerunners MADNESS](https://www.darkhorse.com/Blog/4471/cyberpunk-edgerunners-madness-volume-1)
 * [Dimension W](https://en.wikipedia.org/wiki/Dimension_W)
 * [Dogs: Bullets & Carnage](https://en.wikipedia.org/wiki/Dogs:_Bullets_%26_Carnage)
 * [Dominion: Tank Police](https://en.wikipedia.org/wiki/Dominion:_Tank_Police)
@@ -483,7 +489,6 @@
 * [Dangeru](https://dangeru.us/)
 * [Wirechan](https://wirechan.org/)
 * [Cyberpunk Database](https://cyberpunkdatabase.net/)
-* [Cyberpunk Noise](https://cyberpunknoise.tumblr.com/)
 * [Wired - Cyberpunk](https://www.wired.com/tag/cyberpunk/)
 * [Cyberpunk Culture](https://www.cyberpunkculture.com/)
 
@@ -491,9 +496,7 @@
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
 * [CyberPunk Documentary](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
 * [N-O-D-E TV](https://www.youtube.com/c/NODEtv/videos)
-* [SeanHodgins](https://www.youtube.com/c/SeanHodgins/videos)
 * [Sean Hodgins](https://www.youtube.com/c/SeanHodgins/videos)
-* [Cyberpunk Documentary PART 1](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
 * [BBS Documentary](https://www.youtube.com/watch?v=nO5vjmDFZaI)
 
 ## Texts
@@ -502,8 +505,7 @@
 ## Books
 * [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) by Charles Stross
 * [All Tomorrow's Parties](https://www.goodreads.com/book/show/827.All_Tomorrow_s_Parties) by William Gibson
-* [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon): Part #1, also read Broken Angels and Woken Furies
-* [Altered Carbon](https://www.goodreads.com/book/show/40651883-altered-carbon) by Richard K. Morgan
+- [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon) by Richard K. Morgan: Part #1, also read Broken Angels and Woken Furies
 * [Altered States](https://www.goodreads.com/book/show/284438.Altered_States) by Paddy Chayefsky
 * [Autonomous](https://www.goodreads.com/book/show/28209634-autonomous)
 * [Count Zero](https://www.goodreads.com/book/show/827.Count_Zero) by William Gibson
@@ -527,12 +529,14 @@
 * [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) by Ernest Cline
 * [Ready Player Two](https://www.goodreads.com/book/show/51935000-ready-player-two) by Ernest Cline
 * [Schismatrix Plus](https://www.goodreads.com/book/show/11765.Schismatrix_Plus) by Bruce Sterling
+- [Scion](https://www.simonandschuster.ca/books/Scion/James-Islington/9781668239247) by James Islington
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
 * [Spares](https://www.goodreads.com/book/show/21010.Spares)
 * [Sprawl trilogy](https://en.wikipedia.org/wiki/Sprawl_trilogy)
 * [Synners](https://www.goodreads.com/book/show/84484.Synners) by Pat Cadigan
 * [The Departure](https://www.goodreads.com/book/show/10648878-the-departure)
 * [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) by Neal Stephenson
+- [The Last Contract of Isako](https://www.hachettebookgroup.com/titles/fonda-lee/the-last-contract-of-isako/9780316568630/) by Fonda Lee
 * [The Peripheral](https://www.goodreads.com/book/show/20986005-the-peripheral) by William Gibson
 * [The Quantum Thief](https://www.goodreads.com/book/show/8717268-the-quantum-thief) by Hannu Rajaniemi
 * [The Stars My Destination](https://www.goodreads.com/book/show/21697.The_Stars_My_Destination) by Alfred Bester
@@ -604,6 +608,7 @@
 * [Gunpoint](https://store.steampowered.com/app/206190/Gunpoint/)
 * [>observer_](https://store.steampowered.com/app/514900/observer/)
 * [Orwell](https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/)
+- [REPLACED](https://store.steampowered.com/app/1663850/REPLACED/)
 * [RUINER](https://store.steampowered.com/app/464060/RUINER/)
 * [Satellite Reign](https://store.steampowered.com/app/268870/Satellite_Reign/)
 * [Shadowrun: Dragonfall](https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/)
