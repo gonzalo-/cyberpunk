@@ -121,6 +121,7 @@
 * [RoboCop 3](https://www.imdb.com/title/tt0107978/): Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on "their" land.
 * [RoboCop (2014)](https://www.imdb.com/title/tt1234721/): In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.
 - [Mercy (2026)](https://www.imdb.com/title/tt31050594/): In the near future, a detective stands trial for murdering his wife and has 90 minutes to prove his innocence to an AI judge before it decides his fate.
+* [Kite (2014)](https://www.imdb.com/title/tt2044801/)
 
 ## Podcasts
 * [Compromised](https://player.fm/series/compromised)
@@ -270,6 +271,8 @@
 * [Harmony](https://www.imdb.com/title/tt3615204/)
 * [Heat Guy J](https://www.imdb.com/title/tt0395393/)
 * [Ingress: The Animation](https://www.imdb.com/title/tt9561968/)
+* [Kite](https://www.imdb.com/title/tt0246734/)
+* [Kite Liberator](https://www.imdb.com/title/tt1217043/)
 * [Lady Battle Cop](https://www.imdb.com/title/tt0188804/)
 * [Lazarus](https://www.adultswim.com/videos/lazarus)
 * [Macross Plus](https://www.imdb.com/title/tt0110426/)
@@ -280,6 +283,8 @@
 * [Megazone 23 - Part 2](https://www.imdb.com/title/tt0160522/)
 * [Megazone 23 - Part 3](https://www.imdb.com/title/tt0160523/)
 * [Metropolis](https://www.imdb.com/title/tt0293416/)
+* [Mezzo Forte](https://www.imdb.com/title/tt0427531/)
+* [Mezzo DSA](https://www.imdb.com/title/tt0461879/)
 * [Neo Tokyo](https://www.imdb.com/title/tt0185481/)
 * [Neon Genesis Evangelion](https://www.imdb.com/title/tt0112159/)
 * [Neon Genesis Evangelion: The End Of Evangelion](https://www.imdb.com/title/tt0169858/)
@@ -306,12 +311,15 @@
 * [Space The Animation](https://www.imdb.com/title/tt2454264/)
 * [Sword Art Online The Movie: Ordinal Scale](https://www.imdb.com/title/tt5544384/)
 * [Techno Police 21C](https://www.imdb.com/title/tt0084774/)
+* [Terminator Zero](https://myanimelist.net/anime/59390)
 * [Texhnolyze](https://www.imdb.com/title/tt0409630/)
 * [The Animatrix](https://www.imdb.com/title/tt0328832/)
 * [The Mobile Cop Jiban (Mobile Sheriff Jiban](https://www.imdb.com/title/tt0185812/)
 * [Time Of Eve](https://www.imdb.com/title/tt1506339/)
 * [Un-Go](https://www.imdb.com/title/tt2127216/)
 * [Vexille](https://www.imdb.com/title/tt0970472/)
+* [Virgin Punk: Clockwork Girl](https://www.imdb.com/title/tt33384612/)
+* [Virgin Punk 2](https://www.imdb.com/title/tt38936521/)
 * [Virus Buster Serge](https://www.imdb.com/title/tt0421480/)
 * [Viper's Creed](https://www.imdb.com/title/tt2033910/)
 * [WXIII: Patlabor the Movie 3](https://www.imdb.com/title/tt0318819/)
@@ -466,6 +474,10 @@
 * [Cyberpunk Database](https://cyberpunkdatabase.net/)
 * [Wired - Cyberpunk](https://www.wired.com/tag/cyberpunk/)
 * [Cyberpunk Culture](https://www.cyberpunkculture.com/)
+* [List of cyberpunk works (Wikipedia)](https://en.wikipedia.org/wiki/List_of_cyberpunk_works)
+* [Cyberpunk (TV Tropes)](https://tvtropes.org/Main/CyberPunk)
+* [EFF Net Culture - Cyberpunk archive](https://w2.eff.org/Net_culture/Cyberpunk/)
+* [Cyberpunk Review (archived)](https://archive.org/details/cyberpunkreview.com_20190922114000)
 
 ## Videos
 * [Charlie Chaplin Eating Machine](https://www.youtube.com/watch?v=17PkUsTVa7g)
